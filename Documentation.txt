@@ -1,0 +1,18 @@
+RotaPool App:
+
+This is the cab-sharing app of Rotaract Club Chandigarh Himalayan, which will help its members in sharing the cabs for going to same meetings or the ones at a common destination.
+This is in view of the fact that many Rotaractors come from far-off places, and have to pay a huge fare for cabs to come for regular meetings. It will also help to resolve another purpose of RCCH, i.e, creating new bonds.
+
+
+Features:
+
+- The app allows you to enter your location, destination, and the purpose of the meeting.
+- It permits you to chat with people whose location and destination matches yours, and discuss things further for the sharing of cab.
+- You'll also receive notifications about the same.
+
+How to Use:
+
+Step 1: You need to sign up for the app using your email ID, and create a password.
+Step 2: You will be directed to home page once you sign up. If you have already signed up before, then click on sign in and enter your details.
+Step 3: Next, you will be required to enter your pick-up and drop location.
+Step 4: If you find that a person's route matches yours, you will be able to chat with him/her by clicking on the Chats button.
